@@ -4,5 +4,5 @@ Published in 1979, the 1st edition of the Advanced Dungeons & Dragons Dungeon Ma
 
 There are media that inspire Fretless, too. We've started gathering our list, our Appendix N, right here:
 
-+ Neil Stephenson: Snow Crash
++ Neal Stephenson: Snow Crash
 + ...
