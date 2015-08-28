@@ -17,3 +17,4 @@ In any case, we've started gathering our list, our Appendix N, right here:
 + Frank Herbert: Dune (book)
 + Chuck Palahniuk: Fight Club (book & movie)
 + Jurassic Park and Jurassic World (movies)
++ Alien & Aliens (movies)
