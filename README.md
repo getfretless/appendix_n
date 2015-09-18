@@ -20,3 +20,5 @@ In any case, we've started gathering our list, our Appendix N, right here:
 + Alien & Aliens (movies)
 + Michael Crichton (especially Jurassic Park and Sphere)
 + The Fly (movie by Cronenberg)
++ 80s toy cartoons (He-Man, Thundercats, GI Joe, Transformers, ...)
++ Looney Toons
